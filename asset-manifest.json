@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/FlashCards_ReactChallenge3/static/css/main.d57a41d8.css",
-    "main.js": "/FlashCards_ReactChallenge3/static/js/main.08b2b1ed.js",
-    "index.html": "/FlashCards_ReactChallenge3/index.html",
-    "main.d57a41d8.css.map": "/FlashCards_ReactChallenge3/static/css/main.d57a41d8.css.map",
-    "main.08b2b1ed.js.map": "/FlashCards_ReactChallenge3/static/js/main.08b2b1ed.js.map"
+    "main.css": "/flash-cards/static/css/main.d57a41d8.css",
+    "main.js": "/flash-cards/static/js/main.08b2b1ed.js",
+    "index.html": "/flash-cards/index.html",
+    "main.d57a41d8.css.map": "/flash-cards/static/css/main.d57a41d8.css.map",
+    "main.08b2b1ed.js.map": "/flash-cards/static/js/main.08b2b1ed.js.map"
   },
   "entrypoints": [
     "static/css/main.d57a41d8.css",
