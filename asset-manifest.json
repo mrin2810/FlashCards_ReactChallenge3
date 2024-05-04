@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FlashCards_ReactChallenge3/static/css/main.d57a41d8.css",
+    "main.js": "/FlashCards_ReactChallenge3/static/js/main.08b2b1ed.js",
+    "index.html": "/FlashCards_ReactChallenge3/index.html",
+    "main.d57a41d8.css.map": "/FlashCards_ReactChallenge3/static/css/main.d57a41d8.css.map",
+    "main.08b2b1ed.js.map": "/FlashCards_ReactChallenge3/static/js/main.08b2b1ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d57a41d8.css",
+    "static/js/main.08b2b1ed.js"
+  ]
+}
